@@ -62,14 +62,7 @@ php-xkcd-mailer/
     ├── setup_cron.sh       # Script to configure the CRON job
     └── registered_emails.txt # Flat file used to store subscriber emails
 
-![1](https://github.com/user-attachments/assets/a0ed33d3-6871-46f4-afc9-683924985fa5)
-![2](https://github.com/user-attachments/assets/377c0007-dad4-4fbc-886a-9ea4e1fd18c8)
-![3](https://github.com/user-attachments/assets/f89867d8-554d-4974-90ee-a61e8ffbed93)
-![4](https://github.com/user-attachments/assets/531e703e-9f3d-40cc-b5b7-05234a533833)
-![5](https://github.com/user-attachments/assets/55b66da8-ffe4-4a79-b027-ef560b2cd7ba)
-![6](https://github.com/user-attachments/assets/2eb9d5c7-bef2-4e89-ba83-3bec8bb322d9)
-![7](https://github.com/user-attachments/assets/ecbc8202-0d43-45cc-a1e3-17002970c6d4)
-![8](https://github.com/user-attachments/assets/2cc6f4f9-3f23-4f63-8198-273dd1fbe670)
+
 
 
 
