@@ -1,3 +1,7 @@
+/**main page for subscribing to comics
+
+ */
+
 <?php
 $page_title = 'Unsubscribe';
 require_once './includes/navbar.php';
