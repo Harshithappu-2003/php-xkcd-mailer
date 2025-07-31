@@ -50,3 +50,16 @@ cd php-xkcd-mailer
 - Enter your email address to receive an unsubscription code.
 
 - Enter the code on the page to be removed from the list.
+
+## 📁 File Structure
+
+php-xkcd-mailer/
+│
+├── index.php               # Main landing and registration page
+├── unsubscribe.php         # Handles user unsubscription
+└── src/
+    ├── functions.php       # Core application logic
+    ├── cron.php            # Script executed by the CRON job
+    ├── setup_cron.sh       # Script to configure the CRON job
+    └── registered_emails.txt # Flat file used to store subscriber emails
+
