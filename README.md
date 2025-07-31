@@ -22,6 +22,12 @@
 
 ---
 
+## Final Code Structure Image
+<img width="1920" height="1080" alt="457084782-caaf289a-35a9-42f5-9b8d-3b64b6c7648f" src="https://github.com/user-attachments/assets/9271d456-ba7d-44ed-b315-99ca0f857335" />
+## Output of mail inbox
+<img width="1913" height="1019" alt="457085154-81d845f4-97cd-4f54-bfda-1e77faa32e14" src="https://github.com/user-attachments/assets/bd88a1f3-8904-4867-8729-c713b06a493c" />
+
+
 ## 🚀 Getting Started
 
 ### 1. Installation
